@@ -1,0 +1,482 @@
+{
+  "todotree": {
+    "tree": [
+      {
+        "key": 1663940859895,
+        "children": [
+          {
+            "key": 1663940976932,
+            "children": [
+              {
+                "key": 1663940862297,
+                "children": [],
+                "todo": {
+                  "content": "1. DeFi 开发新代币：需要懂得区块链底层原理、算法",
+                  "id": 1663940862297,
+                  "level": "default",
+                  "done": false
+                }
+              },
+              {
+                "key": 1663940887952,
+                "children": [],
+                "todo": {
+                  "content": "2. 智能合约开发：代币管理系统、换算、协议对接",
+                  "id": 1663940887952,
+                  "level": "default",
+                  "done": false
+                }
+              },
+              {
+                "key": 1663940937431,
+                "children": [],
+                "todo": {
+                  "content": "3. NFT：开发新代币",
+                  "id": 1663940937431,
+                  "level": "default",
+                  "done": false
+                }
+              }
+            ],
+            "todo": {
+              "content": "招聘方向",
+              "id": 1663940976932,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1663940993850,
+            "children": [
+              {
+                "key": 1663941064139,
+                "children": [
+                  {
+                    "key": 1663941028423,
+                    "children": [],
+                    "todo": {
+                      "content": "1. 熟悉 Solidity",
+                      "id": 1663941028423,
+                      "level": "default",
+                      "done": false
+                    }
+                  },
+                  {
+                    "key": 1663941070819,
+                    "children": [],
+                    "todo": {
+                      "content": "2. 熟悉前端开发语言",
+                      "id": 1663941070819,
+                      "level": "default",
+                      "done": false
+                    }
+                  }
+                ],
+                "todo": {
+                  "content": "语言",
+                  "id": 1663941064139,
+                  "level": "default",
+                  "done": false
+                }
+              },
+              {
+                "key": 1663941084471,
+                "children": [
+                  {
+                    "key": 1663941055320,
+                    "children": [],
+                    "todo": {
+                      "content": "1. 熟悉web3.js、Ethers.js",
+                      "id": 1663941055320,
+                      "level": "default",
+                      "done": false
+                    }
+                  },
+                  {
+                    "key": 1663941161366,
+                    "children": [],
+                    "todo": {
+                      "content": "2. 熟悉 Hardhat/Truffle（合约编译部署工具） 使用",
+                      "id": 1663941161366,
+                      "level": "default",
+                      "done": false
+                    }
+                  },
+                  {
+                    "key": 1663941372380,
+                    "children": [],
+                    "todo": {
+                      "content": "3. 熟悉 openzeppelin （智能合约三方组件库、标准类库）",
+                      "id": 1663941372380,
+                      "level": "default",
+                      "done": false
+                    }
+                  }
+                ],
+                "todo": {
+                  "content": "框架、SDK",
+                  "id": 1663941084471,
+                  "level": "default",
+                  "done": false
+                }
+              },
+              {
+                "key": 1663941470123,
+                "children": [
+                  {
+                    "key": 1663941489798,
+                    "children": [],
+                    "todo": {
+                      "content": "1. 熟悉区块链数据结构",
+                      "id": 1663941489798,
+                      "level": "default",
+                      "done": false
+                    }
+                  },
+                  {
+                    "key": 1663941498189,
+                    "children": [],
+                    "todo": {
+                      "content": "2. 熟悉常见的虚拟代币产品及其区别",
+                      "id": 1663941498189,
+                      "level": "default",
+                      "done": false
+                    }
+                  },
+                  {
+                    "key": 1663941529086,
+                    "children": [],
+                    "todo": {
+                      "content": "3. 熟悉Metamask 钱包",
+                      "id": 1663941529086,
+                      "level": "default",
+                      "done": false
+                    }
+                  },
+                  {
+                    "key": 1663941551900,
+                    "children": [],
+                    "todo": {
+                      "content": "4. 有虚拟代币、NFT交易经验",
+                      "id": 1663941551900,
+                      "level": "default",
+                      "done": false
+                    }
+                  }
+                ],
+                "todo": {
+                  "content": "业务/领域基础知识",
+                  "id": 1663941470123,
+                  "level": "default",
+                  "done": false
+                }
+              }
+            ],
+            "todo": {
+              "content": "技能要求",
+              "id": 1663940993850,
+              "level": "default",
+              "done": false
+            }
+          }
+        ],
+        "todo": {
+          "content": "总结",
+          "id": 1663940859895,
+          "level": "default",
+          "done": false
+        }
+      },
+      {
+        "key": 1663939794498,
+        "children": [
+          {
+            "key": 1663939820480,
+            "children": [],
+            "todo": {
+              "content": "编写新的虚拟币",
+              "id": 1663939820480,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1663939839732,
+            "children": [],
+            "todo": {
+              "content": "可以控制的虚拟币/代币管理系统",
+              "id": 1663939839732,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1663939900885,
+            "children": [],
+            "todo": {
+              "content": "Jira、Confluence",
+              "id": 1663939900885,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1663939911757,
+            "children": [],
+            "todo": {
+              "content": "加密货币钱包、密钥",
+              "id": 1663939911757,
+              "level": "default",
+              "done": false
+            }
+          }
+        ],
+        "todo": {
+          "content": "DeFi（金融区块链产品）",
+          "id": 1663939794498,
+          "level": "default",
+          "done": false
+        }
+      },
+      {
+        "key": 1663939955992,
+        "children": [
+          {
+            "key": 1663939977082,
+            "children": [],
+            "todo": {
+              "content": "编写新的虚拟币",
+              "id": 1663939820480,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1663940044859,
+            "children": [],
+            "todo": {
+              "content": "120k-360k",
+              "id": 1663940044859,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1663940077909,
+            "children": [],
+            "todo": {
+              "content": "可以控制的虚拟币/代币管理系统",
+              "id": 1663939839732,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1663940098182,
+            "children": [],
+            "todo": {
+              "content": "CEX、DEX",
+              "id": 1663940098182,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1663940116480,
+            "children": [],
+            "todo": {
+              "content": "挖矿原理、有NFT交易经验",
+              "id": 1663940116480,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1663940147156,
+            "children": [],
+            "todo": {
+              "content": "了解常见的虚拟币，如以太坊、Arbitrum、Polygon、BSC",
+              "id": 1663940147156,
+              "level": "default",
+              "done": false
+            }
+          }
+        ],
+        "todo": {
+          "content": "NFT",
+          "id": 1663939955992,
+          "level": "default",
+          "done": false
+        }
+      },
+      {
+        "key": 1663940280932,
+        "children": [
+          {
+            "key": 1663940327312,
+            "children": [],
+            "todo": {
+              "content": "Web 前端",
+              "id": 1663940327312,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1663940364864,
+            "children": [],
+            "todo": {
+              "content": "web3.js、ethers.js 对接 Curve、Convex、TraderJoe",
+              "id": 1663940364864,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1663940379263,
+            "children": [],
+            "todo": {
+              "content": "DEFI对接",
+              "id": 1663940379263,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1663940407941,
+            "children": [],
+            "todo": {
+              "content": "Radium、Mango、Orca 、Solana 集成",
+              "id": 1663940407941,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1663940434932,
+            "children": [],
+            "todo": {
+              "content": "MySQL、GraphQL API",
+              "id": 1663940434932,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1663940468908,
+            "children": [],
+            "todo": {
+              "content": "420k-800k",
+              "id": 1663940468908,
+              "level": "default",
+              "done": false
+            }
+          }
+        ],
+        "todo": {
+          "content": "Terrace 跨代币链接系统、智能合约开发",
+          "id": 1663940280932,
+          "level": "default",
+          "done": false
+        }
+      },
+      {
+        "key": 1663940534806,
+        "children": [
+          {
+            "key": 1663940560470,
+            "children": [
+              {
+                "key": 1663940576787,
+                "children": [],
+                "todo": {
+                  "content": "初级(1年) 18k-48k",
+                  "id": 1663940576787,
+                  "level": "default",
+                  "done": false
+                }
+              },
+              {
+                "key": 1663940720131,
+                "children": [],
+                "todo": {
+                  "content": "中高级（1-3年、3年以上） 48k-100k",
+                  "id": 1663940720131,
+                  "level": "default",
+                  "done": false
+                }
+              }
+            ],
+            "todo": {
+              "content": "薪资",
+              "id": 1663940560470,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1663940742631,
+            "children": [],
+            "todo": {
+              "content": "流利英语",
+              "id": 1663940742631,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1663940751202,
+            "children": [],
+            "todo": {
+              "content": "Solidity、Vyper、LLL、Simplicity、Plutus、Yul 或 Substrate",
+              "id": 1663940751202,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1663940759133,
+            "children": [],
+            "todo": {
+              "content": "web3.js、Hardhat、Ethers.js、Truffle、Openzeppelin、Brownie、Embark、web3.py",
+              "id": 1663940759133,
+              "level": "default",
+              "done": false
+            }
+          }
+        ],
+        "todo": {
+          "content": "Crypto 兼职、全职 智能合约开发",
+          "id": 1663940534806,
+          "level": "default",
+          "done": false
+        }
+      }
+    ],
+    "expandKeys": [
+      1663939479376,
+      1663939504478,
+      1663939578283,
+      1663939626740,
+      1663939794498,
+      1663939955992,
+      1663940280932,
+      1663940534806,
+      1663940560470,
+      1663940859895,
+      1663940976932,
+      1663940862297,
+      1663940993850,
+      1663941064139,
+      1663941084471,
+      1663941055320,
+      1663940759133,
+      1663941470123
+    ],
+    "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
+    "add_mode": "bottom",
+    "virtual": false,
+    "showLine": false,
+    "playFontSize": 0
+  }
+}

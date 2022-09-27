@@ -1,0 +1,234 @@
+{
+  "todotree": {
+    "tree": [
+      {
+        "key": 1664077193714,
+        "children": [
+          {
+            "key": 1664077208389,
+            "children": [],
+            "todo": {
+              "content": "掌握基本语句语法",
+              "id": 1664077208389,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1664077223397,
+            "children": [],
+            "todo": {
+              "content": "掌握数据结构、变量类型",
+              "id": 1664077223397,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1664077239424,
+            "children": [],
+            "todo": {
+              "content": "熟悉常用的设计模式，如代理合约模式",
+              "id": 1664077239424,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1664077266937,
+            "children": [],
+            "todo": {
+              "content": "熟悉流行的三方类库，如 openzeppelin",
+              "id": 1664077266937,
+              "level": "default",
+              "done": false
+            }
+          }
+        ],
+        "todo": {
+          "content": "Solidity 语言学习（学时 - 3天）",
+          "id": 1664077193714,
+          "level": "default",
+          "done": false
+        }
+      },
+      {
+        "key": 1664077658668,
+        "children": [
+          {
+            "key": 1664077696930,
+            "children": [],
+            "todo": {
+              "content": "本地私有链（以太坊）搭建测试环境",
+              "id": 1664077696930,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1664077795252,
+            "children": [],
+            "todo": {
+              "content": "使用hardhat编译、测试、部署合约",
+              "id": 1664077795252,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1664077670715,
+            "children": [],
+            "todo": {
+              "content": "熟悉Metamask使用",
+              "id": 1664077670715,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1664077862788,
+            "children": [],
+            "todo": {
+              "content": "web3.js基本API使用，编写前端页面调用智能合约",
+              "id": 1664077862788,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1664078842152,
+            "children": [],
+            "todo": {
+              "content": "【DeFi】熟悉币安代币模版",
+              "id": 1664078842152,
+              "level": "default",
+              "done": false,
+              "link": "https://github.com/bnb-chain/bsc-genesis-contract/blob/master/contracts/bep20_template/BEP20Token.template"
+            }
+          },
+          {
+            "key": 1664078642189,
+            "children": [],
+            "todo": {
+              "content": "【DeFi】在币安链上发行第一个代币",
+              "id": 1664078642189,
+              "level": "default",
+              "done": false,
+              "link": "https://academy.binance.com/zh/articles/how-to-create-your-own-cryptocurrency"
+            }
+          }
+        ],
+        "todo": {
+          "content": "企业级应用开发学习（学时 - 7天）",
+          "id": 1664077658668,
+          "level": "default",
+          "done": false
+        }
+      },
+      {
+        "key": 1664077205993,
+        "children": [
+          {
+            "key": 1664077357314,
+            "children": [],
+            "todo": {
+              "content": "比特币、以太坊(EVM)等基本原理及区别",
+              "id": 1664077357314,
+              "level": "default",
+              "done": false,
+              "link": "https://ethereum.org/zh/developers/docs/intro-to-ethereum/"
+            }
+          },
+          {
+            "key": 1664078444273,
+            "children": [],
+            "todo": {
+              "content": "虚拟货币和虚拟代币的区别",
+              "id": 1664078444273,
+              "level": "default",
+              "done": false,
+              "link": "https://academy.binance.com/zh/articles/how-to-create-your-own-cryptocurrency"
+            }
+          },
+          {
+            "key": 1664078709222,
+            "children": [],
+            "todo": {
+              "content": "了解共识机制。如权益证明、工作量证明",
+              "id": 1664078709222,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1664077398542,
+            "children": [],
+            "todo": {
+              "content": "Metamask钱包作用及基本原理",
+              "id": 1664077398542,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1664077433357,
+            "children": [],
+            "todo": {
+              "content": "挖矿的基本原理",
+              "id": 1664077433357,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1664077451628,
+            "children": [],
+            "todo": {
+              "content": "了解DeFi、GameFi、NFT等区块链产品形态",
+              "id": 1664077451628,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1664077485894,
+            "children": [],
+            "todo": {
+              "content": "了解国内外区块链领域公司/团队及其业务盈利模式",
+              "id": 1664077485894,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1664077582269,
+            "children": [],
+            "todo": {
+              "content": "了解一次完整的比特币/以太币/NFT购买、售出流程",
+              "id": 1664077582269,
+              "level": "default",
+              "done": false
+            }
+          }
+        ],
+        "todo": {
+          "content": "领域基础知识（学时 - 7天）",
+          "id": 1664077205993,
+          "level": "default",
+          "done": false,
+          "link": ""
+        }
+      }
+    ],
+    "expandKeys": [
+      1664077193714,
+      1664077205993,
+      1664077658668
+    ],
+    "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
+    "add_mode": "bottom",
+    "virtual": false,
+    "showLine": false,
+    "playFontSize": 24
+  }
+}
